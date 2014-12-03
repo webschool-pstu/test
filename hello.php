@@ -5,3 +5,4 @@ echo 'Hello from' . <Fabrichnuy Alexey>
 echo 'Hello from' . <Tanya Guseva>
 echo 'Hello from' . <Beskorovayniy Nikita>
 echo 'Hello from' . <Anisimov Sergei>
+echo 'Hello from' . <Alexei Pantelieiev>
